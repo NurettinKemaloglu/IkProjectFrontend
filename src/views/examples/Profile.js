@@ -425,7 +425,7 @@ class Profile extends React.Component{
                                     .then(response => {
                                         alert("Kullanıcı Kaydedildi")
                                     }).catch(reason => {
-                                        alert("Kullanıcı Kaydedildi ! Lütfen alanları doldurunuz !")
+                                        alert("Kullanıcı Kaydedilemedi ! Lütfen alanları doldurunuz !")
 
                                     })
                             }}>Kaydet</Button>

@@ -247,7 +247,7 @@ class UserHarcamaGeçmiş extends React.Component {
                                                   <td>
                                                       {value.userName}
                                                   </td>
-                                                  <td>s
+                                                  <td>
                                                       {value.lastName}
                                                   </td>
                                                   <td>
